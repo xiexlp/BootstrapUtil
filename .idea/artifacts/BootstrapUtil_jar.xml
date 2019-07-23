@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BootstrapUtil:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BootstrapUtil_jar</output-path>
+    <root id="archive" name="BootstrapUtil.jar">
+      <element id="module-output" name="BootstrapUtil" />
+      <element id="extracted-dir" path="F:/1java/jsoup-1.10.3/jsoup-1.10.3-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/1java/jsoup-1.10.3/jsoup-1.10.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/jfinal/beetl series/beetl-2.2.5-all/beetl-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/jfinal/beetl series/beetl-2.2.5-all/beetl-2.2.5-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/1java/jsoup-1.10.3/jsoup-1.10.3-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
